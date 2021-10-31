@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/camza/AndroidStudioProjects/MyFirstApp/app/activities/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/camza/AndroidStudioProjects/MyFirstApp/app/activities/src/main/res/layout/compute_activity.xml" value="0.1" />
+        <entry key="..\:/Users/camza/AndroidStudioProjects/MyFirstApp/app/neighbors/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="..\:/Users/camza/AndroidStudioProjects/MyFirstApp/app/neighborss/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.21875" />
+        <entry key="..\:/Users/camza/AndroidStudioProjects/MyFirstApp/app/neighborss/src/main/res/drawable/ic_baseline_person_add_24.xml" value="0.21875" />
+        <entry key="..\:/Users/camza/AndroidStudioProjects/MyFirstApp/app/neighborss/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.21875" />
+        <entry key="..\:/Users/camza/AndroidStudioProjects/MyFirstApp/app/neighborss/src/main/res/drawable/rounded_corner.xml" value="0.21875" />
+        <entry key="..\:/Users/camza/AndroidStudioProjects/MyFirstApp/app/neighborss/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/camza/AndroidStudioProjects/MyFirstApp/app/neighborss/src/main/res/layout/add_neighbor.xml" value="0.33" />
+        <entry key="..\:/Users/camza/AndroidStudioProjects/MyFirstApp/app/neighborss/src/main/res/layout/list_neighbors_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/camza/AndroidStudioProjects/MyFirstApp/app/neighborss/src/main/res/layout/neighbor_item.xml" value="0.1" />
+        <entry key="..\:/Users/camza/AndroidStudioProjects/MyFirstApp/app/neighborss/src/main/res/layout/update_neighbor.xml" value="0.165625" />
+        <entry key="..\:/Users/camza/AndroidStudioProjects/MyFirstApp/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

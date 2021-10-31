@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">neighborss</string>
+    <string name="titleList">Neighbors list</string>
+    <string name="titleAdd">New neighbor</string>
+    <string name="updateNeighbor">Update neighbor</string>
+    <string name="memoryMenu"> Memory</string>
+    <string name="dbMenu"> Database</string>
+    <string name="details">Neighbor details</string>
+</resources>

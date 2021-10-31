@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/Theme.MyFirstApp">
+
+    <item
+        android:id="@+id/app_bar_switch"
+        android:title=""
+        app:showAsAction="always"
+        android:textColor="?attr/colorOnPrimary"/>
+
+    <item
+        android:id="@+id/database"
+        android:title="Database"/>
+
+    <item
+        android:id="@+id/memory"
+        android:title="Memory"/>
+
+
+</menu>
