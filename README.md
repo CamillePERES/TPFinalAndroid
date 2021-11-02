@@ -1,13 +1,13 @@
 ##Fonctionnalités du TP:
 
-  #Fonctionnalités MyFirstApp1_2_3:
+  #Fonctionnalités MyFirstApp1_2_3: TP 2 et 3
 
     - Navigation entre les fragments
     - Possibilité de supprimer un voisin : cliquer sur l'icône en forme de poubelle
     - Possibilité de créer un voisin : cliquer sur l'icône d'ajout
     - Possibilité de modifier un voisin : cliquer sur le voisin voulu pour accéder à son édition
 
-  #Fonctionnalités MyFirstApp:
+  #Fonctionnalités MyFirstApp: TP 2, 3 et 4
 
     - Navigation entre les fragments
     - Possibilité de supprimer un voisin : cliquer sur l'icône en forme de poubelle
